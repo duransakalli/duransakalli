@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 📫 How to reach me: sakalli.duran@gmail.com
+
 - ⚡ Connect on [Linkedin](https://www.linkedin.com/in/duransakalli/)
 
 <!--
