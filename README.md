@@ -1,6 +1,7 @@
-### Hi there 👋
+### Hi there I`m Duran 👋
 
-- ⚡ Connect on [Linkedin](https://www.linkedin.com/in/duransakalli/)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/duransakalli/)
+- 🤔 Check this out [Medium](https://medium.com/@sakalli.duran)
 
 <!--
 **duransakalli/duransakalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
